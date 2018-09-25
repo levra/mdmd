@@ -4,9 +4,8 @@ author: "Lera"
 date: '22 сентября 2018 г '
 output: html_document
 ---
-## R-intro
 
-```{r}
+```{r echo=TRUE}
 1234+4567
 ```
 
